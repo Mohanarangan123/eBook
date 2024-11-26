@@ -73,12 +73,12 @@ bookStore/
 ```
 >>> Stepup firebase app and configure the environment
 >>> 
-VITE_API_KEY="AIzaSyB-6Mt2LZrRaPgXeNei15BoGBdRmSworD8"
-VITE_Auth_Domain="book-store-d59c4.firebaseapp.com"
-VITE_PROJECT_ID="book-store-d59c4"
-VITE_STORAGE_BUCKET="book-store-d59c4.firebasestorage.app"
-VITE_MESSAGING_SENDERID= "1003381657538"
-VITE_APPID="1:1003381657538:web:03cb93ffbbe9e1553b905b"
+VITE_API_KEY="AIzaSyDzXwpPGgWt8Coo309-pmei3CUiOF4NiG8"
+VITE_Auth_Domain="ebook-e2d18.firebaseapp.com"
+VITE_PROJECT_ID="ebook-e2d18"
+VITE_STORAGE_BUCKET="ebook-e2d18.firebasestorage.app"
+VITE_MESSAGING_SENDERID= "527733874929"
+VITE_APPID="1:527733874929:web:067fbeb4199cde5a854950"
 
 ```
 + Then run `` npm install `` commend to install node dependencies.
@@ -89,7 +89,7 @@ Follow the below steps to run the project:
 - First clone or unzip the project folder.
 * Go to the backend directory by using the following command ``` cd backend```.
 ```
-DB_URL = "mongodb+srv://mohith:mohith@book-store.ikkkt.mongodb.net/ebooks-collection?retryWrites=true&w=majority&appName=Book-Store"
+DB_URL = "mongodb+srv://mohan:mohan@book.be7mr.mongodb.net/book-collection?retryWrites=true&w=majority&appName=Book"
 
 JWT_SECRET_KEY = 'bc992a20cb6706f741433686be814e3df45e57ea1c2fc85f9dbb0ef7df12308a669bfa7c976368ff32e32f6541480ce9ec1b122242f9b1257ab669026aeaf16'
 
