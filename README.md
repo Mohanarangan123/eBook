@@ -6,8 +6,6 @@ Welcome to the BookStore project, a fully functional online bookstore built usin
 
 - T Mohith Shakthi
 - Mohanarangan
-- Manojh Pa
-- Manisha 
 
 ## Table of Contents
 - [Features](#features)
